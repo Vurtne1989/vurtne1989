@@ -1,0 +1,14 @@
+# project specific
+images/
+sketch/
+res.workflow
+slicy/
+.classpath
+project.properties
+.project
+.settings/
+.apt_generated/
+.factorypath
+# sublime
+sdg-bonus-node/sdg-bonus-node.sublime-workspace
+ignoreFile
